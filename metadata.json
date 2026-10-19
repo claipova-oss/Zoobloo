@@ -1,0 +1,6 @@
+{
+  "name": "Zoological Guide - The Modern Zoo Explained",
+  "description": "An interactive, educational guide explaining what modern zoos are, their evolution from menageries to conservation sanctuaries, biomes, and wildlife rescue.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
